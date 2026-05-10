@@ -86,4 +86,4 @@ if grep -R -n "TODO_STUDENT" README.md report-1page.md tests/; then
 fi
 pass "Không còn placeholder TODO_STUDENT trong README/report/tests."
 
-echo "[SUCCESS] Repo đáp ứng bộ kiểm tra nộp bài cơ bản cho FIT4012 Lab 4 AES."
+echo "[SUCCESS] Repo đáp ứng bộ kiểm tra nộp bài cơ bản cho FIT4012 Lab 5 AES."
